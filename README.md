@@ -1,2 +1,2 @@
 # worldwideweb
-World's First Website activity assigned to us to demonstrate our basic html skill.
+World's First Website activity assigned to Kodego Batch WD57P as one of our mini projects to demonstrate our basic HTML skill.
